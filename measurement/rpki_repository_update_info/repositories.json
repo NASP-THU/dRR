@@ -1,0 +1,648 @@
+{
+   "repositories": [
+      {
+         "path": "rpki.tools.westconnect.ca",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.tools.westconnect.ca/rrdp/notification.xml",
+         "serial": 880,
+         "session": "18c85c29-3700-4ec9-8c0c-b3aab9a969c0",
+         "updated": "2024-08-05T05:20:18+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-16",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/08c2f264-23f9-49fb-9d43-f8b50bec9261/notification.xml",
+         "serial": 4109,
+         "session": "e790f563-189d-4719-847f-44fdb428874c",
+         "updated": "2024-08-05T05:14:40+00:00"
+      },
+      {
+         "path": "rrdp.lacnic.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.lacnic.net/rrdp/notification.xml",
+         "serial": 55181,
+         "session": "66b09eea-03c7-435f-bb29-5bee810bd657",
+         "updated": "2024-08-05T05:14:15+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-3",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/db9a372a-09bc-4a32-bfe4-8c48e5dbd219/notification.xml",
+         "serial": 770,
+         "session": "af012d70-97a6-4671-8800-0259f8ff833a",
+         "updated": "2024-08-05T05:15:31+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-14",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/602a26e5-4a9e-4e5e-89f0-ef891490d9c9/notification.xml",
+         "serial": 658,
+         "session": "7be1c1f0-fb1a-4b5b-875a-fb3feb9a8d1b",
+         "updated": "2024-08-05T05:19:41+00:00"
+      },
+      {
+         "path": "rrdp.krill.nlnetlabs.nl",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.krill.nlnetlabs.nl/notification.xml",
+         "serial": 95,
+         "session": "9c663ca8-c73a-4166-9258-8fe830eb278f",
+         "updated": "2024-08-05T05:16:23+00:00"
+      },
+      {
+         "path": "rpki.zappiehost.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.zappiehost.com/rrdp/notification.xml",
+         "serial": 4627,
+         "session": "b215999d-8764-48cf-9ccc-68ea7e82e28a",
+         "updated": "2024-08-05T05:16:27+00:00"
+      },
+      {
+         "path": "rpki-01.pdxnet.uk",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-01.pdxnet.uk/rrdp/notification.xml",
+         "serial": 3164,
+         "session": "1e603317-6ada-44ce-902e-75f38f5bf61a",
+         "updated": "2024-08-05T05:15:52+00:00"
+      },
+      {
+         "path": "repo.rpki.space",
+         "type": "rrdp",
+         "rpkiNotify": "https://repo.rpki.space/rrdp/notification.xml",
+         "serial": 1175,
+         "session": "1670539b-522e-4b14-8ca6-e45b1949b01c",
+         "updated": "2024-08-05T05:15:57+00:00"
+      },
+      {
+         "path": "rrdp.afrinic.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.afrinic.net/notification.xml",
+         "serial": 15192,
+         "session": "8fe3109e-2561-4627-8850-83ab94b9bb91",
+         "updated": "2024-08-05T05:13:38+00:00"
+      },
+      {
+         "path": "rpki.miralium.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.miralium.net/rrdp/notification.xml",
+         "serial": 55,
+         "session": "7a9db294-c9b1-4efa-8755-d07cc5fdee74",
+         "updated": "2024-08-05T05:20:13+00:00"
+      },
+      {
+         "path": "rpki.uz",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.uz/rrdp/notification.xml",
+         "serial": 319,
+         "session": "014323dc-4bb9-4cbc-b523-a106bb388e5b",
+         "updated": "2024-08-05T05:16:13+00:00"
+      },
+      {
+         "path": "rpki-repository.nic.ad.jp",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-repository.nic.ad.jp/rrdp/ap/notification.xml",
+         "serial": 597,
+         "session": "b9385456-1763-4ee7-9327-d2f976e7c620",
+         "updated": "2024-08-05T05:15:38+00:00"
+      },
+      {
+         "path": "rpki-rrdp.mnihyc.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.mnihyc.com/rrdp/notification.xml",
+         "serial": 3073,
+         "session": "673ed395-23b3-4426-b8f3-3335a5937daa",
+         "updated": "2024-08-05T05:17:16+00:00"
+      },
+      {
+         "path": "magellan.ipxo.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://magellan.ipxo.com/rrdp/notification.xml",
+         "serial": 4876,
+         "session": "7cc3800e-d438-4274-bf75-cadbb018a1cf",
+         "updated": "2024-08-05T05:16:03+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/c3cd7c24-12cb-4abc-8fd2-5e2bcbb85ae6/notification.xml",
+         "serial": 871,
+         "session": "7d81c8e0-e560-4b46-8ebd-89dca0f8ce06",
+         "updated": "2024-08-05T05:15:18+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-21",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/f703696e-e47b-4c20-bd93-6f80904e42d2/notification.xml",
+         "serial": 14225,
+         "session": "2f7c3e28-e453-499f-9113-51a844b87050",
+         "updated": "2024-08-05T05:19:44+00:00"
+      },
+      {
+         "path": "rpki.qs.nu",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.qs.nu/rrdp/notification.xml",
+         "serial": 4682,
+         "session": "3d9016b8-c804-481f-96fa-3675352e538e",
+         "updated": "2024-08-05T05:16:28+00:00"
+      },
+      {
+         "path": "rrdp.rp.ki",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.rp.ki/notification.xml",
+         "serial": 1678,
+         "session": "697fbe5a-b6ba-4c4f-b343-8dd9dd6a488e",
+         "updated": "2024-08-05T05:15:23+00:00"
+      },
+      {
+         "path": "rpki.cnnic.cn",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.cnnic.cn/rrdp/notify.xml",
+         "serial": 2343695,
+         "session": "d4427960-abb3-49e4-902c-d815a518b867",
+         "updated": "2024-06-05T02:43:47+00:00"
+      },
+      {
+         "path": "rrdp.apnic.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.apnic.net/notification.xml",
+         "serial": 25,
+         "session": "39fa2e3d-a39e-4372-bf35-d51958ba8389",
+         "updated": "2024-08-05T05:13:35+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-17",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/967a255c-d680-42d3-9ec3-ecb3f9da088c/notification.xml",
+         "serial": 2418,
+         "session": "50656cf5-c3aa-45bf-8de3-7c9fa8af5322",
+         "updated": "2024-08-05T05:16:05+00:00"
+      },
+      {
+         "path": "rpki.as207960.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.as207960.net/rrdp/notification.xml",
+         "serial": 3086,
+         "session": "d376fe5b-dba0-4d08-ab92-38dfa036bbe9",
+         "updated": "2024-08-05T05:15:48+00:00"
+      },
+      {
+         "path": "rpki.owl.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.owl.net/rrdp/notification.xml",
+         "serial": 2489,
+         "session": "c4099639-6616-41dd-916c-2f176cf89178",
+         "updated": "2024-08-05T05:15:26+00:00"
+      },
+      {
+         "path": "rrdp.sub.apnic.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.sub.apnic.net/notification.xml",
+         "serial": 252,
+         "session": "64e48a3d-2307-4148-a79e-8c2b67d7b712",
+         "updated": "2024-08-05T05:14:22+00:00"
+      },
+      {
+         "path": "rpki.sn-p.io",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.sn-p.io/rrdp/notification.xml",
+         "serial": 516,
+         "session": "a9b5b05c-ecd2-42f8-af25-398e0e4ecbd5",
+         "updated": "2024-08-05T05:16:07+00:00"
+      },
+      {
+         "path": "krill.stonham.uk",
+         "type": "rrdp",
+         "rpkiNotify": "https://krill.stonham.uk/rrdp/notification.xml",
+         "serial": 453,
+         "session": "f8a69909-0928-4b2d-af32-786da2ea64d7",
+         "updated": "2024-08-05T05:16:32+00:00"
+      },
+      {
+         "path": "chloe.sobornost.net-1",
+         "type": "rrdp",
+         "rpkiNotify": "https://chloe.sobornost.net/rpki/news-public.xml",
+         "serial": 1368,
+         "session": "fe528335-db5f-48b2-be7e-bf0992d0b5ec",
+         "updated": "2024-01-23T04:25:44+00:00"
+      },
+      {
+         "path": "ca.nat.moe",
+         "type": "rrdp",
+         "rpkiNotify": "https://ca.nat.moe/rrdp/notification.xml",
+         "serial": 952,
+         "session": "22278cbf-c44e-4920-b166-ccfc7f82dd11",
+         "updated": "2024-08-05T05:20:17+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-22",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/dfd7f6d3-e6e9-4987-9ae7-d052c5353898/notification.xml",
+         "serial": 620,
+         "session": "fd0039bd-1d18-4bd9-bd0c-5e5fc3d1976a",
+         "updated": "2024-08-05T05:21:09+00:00"
+      },
+      {
+         "path": "rpki.rand.apnic.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.rand.apnic.net/rrdp/notification.xml",
+         "serial": 1123,
+         "session": "96c441f4-9169-42ad-80db-439295e122d8",
+         "updated": "2024-08-05T05:14:23+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-5",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/bd48a1fa-3471-4ab2-8508-ad36b96813e4/notification.xml",
+         "serial": 795,
+         "session": "be5f8930-8247-40cb-9d48-559e1f1fa93a",
+         "updated": "2024-08-05T05:14:23+00:00"
+      },
+      {
+         "path": "rrdp.ripe.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.ripe.net/notification.xml",
+         "serial": 74848,
+         "session": "172322cf-c642-4e6f-806c-bd2375d8001a",
+         "updated": "2024-08-05T05:13:43+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-4",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/a841823c-a10d-477c-bfdf-4086f0b1594c/notification.xml",
+         "serial": 667,
+         "session": "c4c8c42a-ba17-45c5-b04a-58c85419df9c",
+         "updated": "2024-08-05T05:19:21+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-19",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/b3f6b688-cff4-402f-97d5-02f6f1886b7e/notification.xml",
+         "serial": 634,
+         "session": "c90ce58f-7675-4d72-9c9a-d615359ae3ba",
+         "updated": "2024-08-05T05:20:35+00:00"
+      },
+      {
+         "path": "rrdp.rpki.co",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.rpki.co/rrdp/notification.xml",
+         "serial": 21565,
+         "session": "44d629c1-e31f-49e9-a0ee-9d4c2e9e76a9",
+         "updated": "2023-10-28T18:13:09+00:00"
+      },
+      {
+         "path": "repo-rpki.idnic.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://repo-rpki.idnic.net/rrdp/notification.xml",
+         "serial": 240565,
+         "session": "c8e38181-c389-41eb-8f37-7495a08d2d9a",
+         "updated": "2024-06-04T15:52:25+00:00"
+      },
+      {
+         "path": "rpki.multacom.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.multacom.com/rrdp/notification.xml",
+         "serial": 11013,
+         "session": "f00d73b4-e8ae-4786-8163-c0f0767687d4",
+         "updated": "2024-08-05T05:15:41+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-1",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/517f3ed7-58b5-4796-be37-14d62e48f056/notification.xml",
+         "serial": 860,
+         "session": "15049d5c-515b-4018-8402-cc98e4b507da",
+         "updated": "2024-08-05T05:19:44+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-8",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/20aa329b-fc52-4c61-bf53-09725c042942/notification.xml",
+         "serial": 14576,
+         "session": "0eac24d1-fe4a-41b7-9d76-c9f22cdfbe81",
+         "updated": "2024-08-05T05:18:29+00:00"
+      },
+      {
+         "path": "krill.accuristechnologies.ca",
+         "type": "rrdp",
+         "rpkiNotify": "https://krill.accuristechnologies.ca/rrdp/notification.xml",
+         "serial": 2427,
+         "session": "7027f733-88b9-4b7e-a562-22f19286b58e",
+         "updated": "2024-08-05T05:16:25+00:00"
+      },
+      {
+         "path": "rrdp-rps.arin.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp-rps.arin.net/notification.xml",
+         "serial": 39036,
+         "session": "222bc4dd-08cd-46c3-b744-f99835520fa4",
+         "updated": "2024-08-05T05:14:08+00:00"
+      },
+      {
+         "path": "rpki.xindi.eu",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.xindi.eu/rrdp/notification.xml",
+         "serial": 1257,
+         "session": "7942b57b-6403-4e70-8753-f0017937938c",
+         "updated": "2024-08-05T05:16:18+00:00"
+      },
+      {
+         "path": "rpki.luys.cloud",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.luys.cloud/rrdp/notification.xml",
+         "serial": 3703,
+         "session": "b14bf9f4-2d4f-418f-8f47-819710b78724",
+         "updated": "2024-08-05T05:17:15+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-6",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/dba8f01c-9669-44a3-ac6e-db2edb099b84/notification.xml",
+         "serial": 2697,
+         "session": "27e3c914-3741-40c5-bec7-265e2eb80946",
+         "updated": "2024-08-05T05:16:26+00:00"
+      },
+      {
+         "path": "rpki.apernet.io",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.apernet.io/rrdp/notification.xml",
+         "serial": 4149,
+         "session": "4ba8440d-138c-45f7-914e-c04a8cf66129",
+         "updated": "2024-08-05T05:17:13+00:00"
+      },
+      {
+         "path": "rpki.pudu.be",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.pudu.be/rrdp/notification.xml",
+         "serial": 702,
+         "session": "12e56a6f-de3e-492a-a9d3-2c448e4eccc7",
+         "updated": "2024-08-05T05:16:21+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-2",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/16f1ffee-7461-4674-bb05-fddefa9a02c6/notification.xml",
+         "serial": 35506,
+         "session": "f62e1519-f2e4-4d57-80bc-56c3699ba88e",
+         "updated": "2024-08-05T05:17:17+00:00"
+      },
+      {
+         "path": "rpki.roa.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.roa.net/rrdp/notification.xml",
+         "serial": 16548,
+         "session": "a86fd55d-d6e8-47bf-a661-5a7342942a34",
+         "updated": "2024-08-05T05:14:26+00:00"
+      },
+      {
+         "path": "rpki.sailx.co",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.sailx.co/rrdp/notification.xml",
+         "serial": 1510,
+         "session": "49901d73-2e81-4fad-a7b0-60077ca499db",
+         "updated": "2024-08-05T05:20:14+00:00"
+      },
+      {
+         "path": "repo.kagl.me",
+         "type": "rrdp",
+         "rpkiNotify": "https://repo.kagl.me/rpki/notification.xml",
+         "serial": 326,
+         "session": "66cb5519-2097-4067-9da6-b48ba942b960",
+         "updated": "2024-08-05T05:15:58+00:00"
+      },
+      {
+         "path": "rpki-publication.haruue.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-publication.haruue.net/rrdp/notification.xml",
+         "serial": 320,
+         "session": "b90ae412-4fba-4af2-a126-3c7cb3d00463",
+         "updated": "2024-08-05T05:20:36+00:00"
+      },
+      {
+         "path": "rrdp.twnic.tw",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.twnic.tw/rrdp/notify.xml",
+         "serial": 1636896,
+         "session": "71d39673-7062-4036-b080-957aa1b854b3",
+         "updated": "2024-08-05T05:15:21+00:00"
+      },
+      {
+         "path": "cloudie.rpki.app",
+         "type": "rrdp",
+         "rpkiNotify": "https://cloudie.rpki.app/rrdp/notification.xml",
+         "serial": 4498,
+         "session": "d92cf37b-c955-4272-bbe6-efda084ad2de",
+         "updated": "2024-08-05T05:19:44+00:00"
+      },
+      {
+         "path": "sakuya.nat.moe",
+         "type": "rrdp",
+         "rpkiNotify": "https://sakuya.nat.moe/rrdp/notification.xml",
+         "serial": 4681,
+         "session": "44b861a4-fafd-4aae-b3cf-9d8f5375e415",
+         "updated": "2024-08-05T05:15:28+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-15",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/2f059a21-d41b-4846-b7ae-7ea38c32fd4c/notification.xml",
+         "serial": 718,
+         "session": "30d919c0-4898-4685-8fab-5e1c067ab213",
+         "updated": "2024-08-05T05:20:50+00:00"
+      },
+      {
+         "path": "rrdp.rpki.tianhai.link",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.rpki.tianhai.link/rrdp/notification.xml",
+         "serial": 1599,
+         "session": "93cd51a0-7c5a-4c43-a30c-4aa6a2271dcf",
+         "updated": "2024-06-05T02:43:49+00:00"
+      },
+      {
+         "path": "x-8011.p.u9sv.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://x-8011.p.u9sv.com/notification.xml",
+         "serial": 202,
+         "session": "b6272b78-d99e-4dd9-95f5-09dbd79f692a",
+         "updated": "2024-08-05T05:15:54+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-13",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/54602fb0-a9d4-4f9f-b0ca-be2a139ea92b/notification.xml",
+         "serial": 101568,
+         "session": "098c0ce1-b270-4006-a087-bd4f56f842f3",
+         "updated": "2024-08-05T05:18:24+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-7",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/e72d8db0-4728-4fc1-bdd8-471129866362/notification.xml",
+         "serial": 673,
+         "session": "dc9f329e-549c-4f77-a043-ae2e219c1b98",
+         "updated": "2024-08-05T05:18:22+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-18",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/e7518af5-a343-428d-bf78-f982b6e60505/notification.xml",
+         "serial": 1095,
+         "session": "4bd13b08-31cf-4342-af8f-0bc15fcee76b",
+         "updated": "2024-08-05T05:20:19+00:00"
+      },
+      {
+         "path": "rpki.cc",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.cc/rrdp/notification.xml",
+         "serial": 8198,
+         "session": "0cb9803b-9a9f-42ff-a7d5-2e84aa67d985",
+         "updated": "2024-08-05T05:16:00+00:00"
+      },
+      {
+         "path": "0.sb",
+         "type": "rrdp",
+         "rpkiNotify": "https://0.sb/rrdp/notification.xml",
+         "serial": 34446,
+         "session": "044b2cba-f82b-4ea7-8277-c0f07266f5c3",
+         "updated": "2024-08-05T05:14:20+00:00"
+      },
+      {
+         "path": "rpki.admin.freerangecloud.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.admin.freerangecloud.com/rrdp/notification.xml",
+         "serial": 7302,
+         "session": "9786cbe1-f5e2-4ad0-bf13-b99f68a958d8",
+         "updated": "2024-08-05T05:14:05+00:00"
+      },
+      {
+         "path": "rpki.cernet.edu.cn",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.cernet.edu.cn/rrdp/notification.xml",
+         "serial": 488,
+         "session": "3bec4586-ab0c-491c-bfe5-97c37d1720dc",
+         "updated": "2024-08-05T05:14:22+00:00"
+      },
+      {
+         "path": "rpki-repo.registro.br",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-repo.registro.br/rrdp/notification.xml",
+         "serial": 240341,
+         "session": "49582cf3-79ba-4cba-a1a9-14e966177268",
+         "updated": "2024-08-05T05:17:08+00:00"
+      },
+      {
+         "path": "rov-measurements.nlnetlabs.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rov-measurements.nlnetlabs.net/rrdp/notification.xml",
+         "serial": 564,
+         "session": "5370952c-9fc4-4186-bb79-18eb139e9859",
+         "updated": "2024-08-05T05:19:43+00:00"
+      },
+      {
+         "path": "rrdp.paas.rpki.ripe.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.paas.rpki.ripe.net/notification.xml",
+         "serial": 131715,
+         "session": "1c33ba5d-4e16-448d-9a22-b12599ef1cba",
+         "updated": "2024-08-05T05:13:43+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-20",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/71e5236f-c6f1-4928-a1b9-8def09c06085/notification.xml",
+         "serial": 634,
+         "session": "c6122fc7-42c8-40a4-bca2-8cc1c883d8f8",
+         "updated": "2024-08-05T05:20:36+00:00"
+      },
+      {
+         "path": "ca.rg.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://ca.rg.net/rrdp/notify.xml",
+         "serial": 81777,
+         "session": "eaf7cb9c-717a-4c02-b683-4ee3820ab3d0",
+         "updated": "2024-08-05T05:16:19+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-11",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/b8a1dd25-c313-4f25-ac21-bf55514d9c7d/notification.xml",
+         "serial": 1019,
+         "session": "7f9c5bd1-c000-4f2b-9a98-bb3b625b490c",
+         "updated": "2024-08-05T05:18:25+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-10",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/708aafaf-00b4-485b-854c-0b32ca30f57b/notification.xml",
+         "serial": 867,
+         "session": "7c2d14ed-ded9-4777-9885-dc9d35403305",
+         "updated": "2024-08-05T05:15:26+00:00"
+      },
+      {
+         "path": "dev.tw",
+         "type": "rrdp",
+         "rpkiNotify": "https://dev.tw/rpki/notification.xml",
+         "serial": 5746,
+         "session": "ffa010d0-1622-40ef-9fa8-7f9433774346",
+         "updated": "2024-08-05T05:15:43+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-12",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/42582c67-dd3f-4bc5-ba60-e97e552c6e35/notification.xml",
+         "serial": 646,
+         "session": "74a44187-d8e1-40af-861d-78d32361edb9",
+         "updated": "2024-08-05T05:20:11+00:00"
+      },
+      {
+         "path": "rrdp.arin.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://rrdp.arin.net/notification.xml",
+         "serial": 76183,
+         "session": "4a394319-7460-4141-a416-1addb69284ff",
+         "updated": "2024-08-05T05:16:13+00:00"
+      },
+      {
+         "path": "rpkica.mckay.com",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpkica.mckay.com/rrdp/notify.xml",
+         "serial": 2983,
+         "session": "793b11fa-6583-4d49-b63a-5a3bd7297073",
+         "updated": "2024-08-05T05:16:01+00:00"
+      },
+      {
+         "path": "pub.krill.ausra.cloud",
+         "type": "rrdp",
+         "rpkiNotify": "https://pub.krill.ausra.cloud/rrdp/notification.xml",
+         "serial": 415,
+         "session": "2cc0afd8-223a-4355-b2d6-82d70506265a",
+         "updated": "2024-01-23T04:25:54+00:00"
+      },
+      {
+         "path": "rpki-rrdp.us-east-2.amazonaws.com-9",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki-rrdp.us-east-2.amazonaws.com/rrdp/ff9fa84e-9783-4a0b-a58d-6dc8e2433d33/notification.xml",
+         "serial": 518,
+         "session": "4da0bc15-6736-49ab-a0ba-48042a621a58",
+         "updated": "2024-08-05T05:20:36+00:00"
+      },
+      {
+         "path": "rpki.folf.systems",
+         "type": "rrdp",
+         "rpkiNotify": "https://rpki.folf.systems/rrdp/notification.xml",
+         "serial": 719,
+         "session": "c48ad592-2a48-41d1-b650-136b893dc924",
+         "updated": "2024-08-05T05:15:49+00:00"
+      },
+      {
+         "path": "chloe.sobornost.net",
+         "type": "rrdp",
+         "rpkiNotify": "https://chloe.sobornost.net/rpki/news.xml",
+         "serial": 1483,
+         "session": "f7124e27-fd1d-4408-927e-04cfe14f7197",
+         "updated": "2024-08-05T05:15:45+00:00"
+      },
+      {
+         "path": "rsync",
+         "type": "rsync"
+      }
+   ]
+}

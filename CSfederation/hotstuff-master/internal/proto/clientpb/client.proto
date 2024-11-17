@@ -1,0 +1,53 @@
+syntax = "proto3";
+
+package clientpb;
+
+import "gorums.proto";
+import "google/protobuf/empty.proto";
+
+option go_package = "github.com/relab/hotstuff/internal/proto/clientpb";
+
+// Client is the client-facing API to HotStuff
+service Client {
+  // ExecCommand sends a command to all replicas and waits for valid signatures
+  // from f+1 replicas
+  rpc ExecCommand(Command) returns (google.protobuf.Empty) {
+    option (gorums.quorumcall) = true;
+    option (gorums.async) = true;
+  }
+}
+
+message Command {
+  uint32 ClientID = 1;
+  uint64 SequenceNumber = 2;
+  bytes Data = 3;
+  string IssuerID = 4;
+  string SubjectID = 5;
+  bytes IssuerRC = 6;
+  repeated bytes Cert = 7;
+  google.protobuf.Timestamp NotBefore = 8;
+  google.protobuf.Timestamp NotAfter = 9;
+  bytes CIPhash = 10;
+  byte CIPsig = 11;
+}
+
+message Command {
+  uint32 Version = 1;
+  uint64 SequenceNumber = 2;
+  bytes Data = 3;
+  string IssuerID = 4;
+  repeated bytes Cert = 7;
+  bytes CRPhash = 10;
+  byte CRPsig = 11;
+}
+
+// Command is the request that is sent to the HotStuff replicas with the data to
+// be executed.
+message Command {
+  uint32 ClientID = 1;
+  uint64 SequenceNumber = 2;
+  bytes Data = 3;
+}
+
+// Batch is a list of commands to be executed
+message Batch { repeated Command Commands = 1; }

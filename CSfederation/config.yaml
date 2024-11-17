@@ -1,0 +1,22 @@
+clients: 8
+replicas: 32
+hosts: [
+  ...
+]
+hosts-config: [
+  {
+    name: "...",
+    clients: 1,
+    replicas: 0,
+  },
+  {
+    name: "...",
+    clients: 1,
+    replicas: 0,
+  },
+  {
+    name: "...",
+    clients: 1,
+    replicas: 0,
+  },
+]
